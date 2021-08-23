@@ -12,7 +12,9 @@ Using python library:
 
 - jwt
 
-**[Please check out the full script _here_]()**
+It read the JWT from file (file contain huge JWT), and decode it
+
+**[Please check out the full script _here_](https://github.com/austin-lai/Python-Decode-Json-Web-Token-JWT/blob/master/python-decode-jwt-from-file.py)**
 
 <!-- /Description -->
 
